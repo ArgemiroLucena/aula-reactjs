@@ -1,2 +1,2 @@
-# digital-innovation-one-introduction-reactjs
-Introdução ao ReactJS
+aula-reactjs
+Anotações da aula de Introdução ao ReactJS do bootcamp da DIO.
