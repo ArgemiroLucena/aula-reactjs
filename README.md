@@ -1,2 +1,2 @@
-# aula-reactjs
-Anotações e testes do curso de Introdução ao ReactJS
+# digital-innovation-one-introduction-reactjs
+Introdução ao ReactJS
